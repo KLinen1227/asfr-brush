@@ -24,7 +24,7 @@
 
 ## 下载与安装
 
-仓库公开后，在 **Releases → Assets** 下载手动附加的 **ASFR笔刷0.0.1.zip**。
+仓库公开后，在 **Releases → Assets** 下载手动附加的 **ASFR-Brush-0.0.1.zip**（ASFR笔刷0.0.1 安装包）。
 不要把 GitHub 自动生成的 **Source code (zip)** 当作安装包：它包含整个项目目录，不是 Blender 所需的插件目录结构。
 
 安装包另存于本地 `release-assets/`，不纳入 Git 提交，并作为 Release 草稿附件上传。仓库保持私有时，未获授权的用户无法访问项目与附件。

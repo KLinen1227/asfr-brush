@@ -1,0 +1,23 @@
+# Local build outputs, not repository source. Attach the installer to Releases.
+/release-assets/
+/dist/
+/local-checks/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+*.log
+*.blend1
+*.blend2
+*.bak
+*.tmp
+*.zip
+*.zip.sha256.txt
+.deleted/
+backups/
+custom_presets/
+userpref.blend
+PRIVATE/
+*测试版*

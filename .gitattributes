@@ -1,0 +1,5 @@
+* text=auto
+# Keep the verified installer payload byte-identical on every platform.
+petrify_painter/** -text
+*.blend binary
+*.zip binary

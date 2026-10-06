@@ -1,0 +1,23 @@
+{
+  "version": [
+    0,
+    0,
+    1
+  ],
+  "edition": "PUBLIC",
+  "package": "ASFR笔刷0.0.1.zip",
+  "verified_zip_sha256": "c208b57cc1636ffa5e963b1322666492bd39d1ddbaf9a568b76b358643b6554e",
+  "files": {
+    "petrify_gold.py": "b531033039a72b944943ee7ef51cb77d96588a12eb71284c8ac8dc179cb03770",
+    "petrify_ice.py": "d28a4c71d787e575376b2558b0c965d6182b06495c347e5fbf55b9b461f27925",
+    "petrify_management.py": "be3f196f895e920592e593fa32239356c7e6decd228a47f71a8cd8e175785abc",
+    "petrify_normals.py": "9f7c413f08f111d5cd30c3264da7267dc8a7c3c1560351234e10e565c66c45a6",
+    "petrify_overlay.py": "45f92c7bd8e307e82a48237a60e3c26773c1c51c828bee78797388a35e6d062e",
+    "petrify_presets.blend": "9b24d96b92255739d86fe652d1504ddcd6e7ab40911566246cd7ebbf36ffa11e",
+    "petrify_preview.py": "cee8717bb2bdfeac5330fb4382b856cc8cbe57d836c4c43646728ff94e6e7f90",
+    "petrify_resin.py": "9bdd39ba76f23a204dde2f7a14e76f4a91445217c71ef89c2be935a5cd58cc73",
+    "petrify_topology.py": "1a1063aa99c11a1191bce36d1cc551c87f0f18dcf5ab3f4894df8004e8a2f318",
+    "__init__.py": "8f41d37a1480d9d9296a9141ecd5b4f0b417931cb32e1bec862d9640ccd65887",
+    "ASFR笔刷0.0.1_使用说明书.md": "9c6f0bfed33690a910af67ba68471e99adacca3a594318987e99c2e9a3532efa"
+  }
+}
